@@ -1,0 +1,3 @@
+/Users/macpro/Documents/C++ problems/HomeworkForLesson#16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macpro/Documents/C++ problems/HomeworkForLesson#16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macpro/Documents/C++ problems/HomeworkForLesson#16/cmake-build-debug/CMakeFiles/HomeworkForLesson_16.dir
